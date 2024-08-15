@@ -4,7 +4,7 @@ Put it on the grill.
 
 Robata is a window selector app for macOS.
 
-[Download for macOS](https://github.com/emadda/robata/releases).
+[Download for macOS](https://github.com/emadda/robata/releases/download/v-001/Robata-001.dmg).
 
 Please [report any issues or feedback you have](https://github.com/emadda/robata/issues).
 
@@ -22,6 +22,13 @@ Learn more: [robata.app](https://robata.app).
 - c
 	- Close window currently under mouse.
 
+- cmd-d
+	- Discover windows.
+	- macOS window APIs only allow reading windows that have been on an active space.
+	- Spaces can only be switched to when an app focuses on one of its own windows on that space.
+	- To find all your windows, this creates a small window on each space, visits each space and then closes.
+	- It should take around 10 seconds.
+	- Or you can manually switch to different spaces instead.
 
 
 # Custom methods of opening
