@@ -36,7 +36,7 @@ Learn more: [robata.app](https://robata.app).
 
 By default the bottom left of any attached trackpads open Robata. You just need to rest your finger lightly (no tap needed).
 
-You can customize this via File -> Settings.
+You can customize this via Robata -> Settings.
 
 
 You can attach your own keyboard or mouse shortcuts to toggle Robata using any of these methods:
