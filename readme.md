@@ -70,8 +70,6 @@ open "robata://toggle"
 - Alt-tab.
 
 
-
-
 # Permissions
 
 Robata requires:
