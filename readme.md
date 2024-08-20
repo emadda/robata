@@ -24,8 +24,7 @@ Learn more: [robata.app](https://robata.app).
 
 - cmd-d
 	- Discover windows.
-	- Window discovery only needs to be done when Robata first opens.
-	- macOS window APIs only allow reading windows that have been on an active space.
+	- Window discovery only needs to be done when Robata first opens - macOS window APIs only allow reading windows that have been on an active space.
 	- Spaces can only be switched to when an app focuses on one of its own windows on that space.
 	- To find all your windows, this creates a small window on each space, visits each space, and then closes.
 	- It should take around 10 seconds.
