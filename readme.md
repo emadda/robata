@@ -95,5 +95,18 @@ Robata is [notarized](https://developer.apple.com/documentation/security/notariz
 Robata does not access the network or disk whilst it runs.
 
 
+# Acknowledgements
+
+Thanks to the developers of open source projects for their discovery and documentation of the Apple APIs that allows reading macOS spaces.
+
+You may want to give them a try if Robata does not suit your needs:
+
+- [https://github.com/Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon/)
+- [https://github.com/lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+- [https://github.com/rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+- [https://github.com/koekeishiya/yabai](https://github.com/koekeishiya/yabai)
+- [https://github.com/ianyh/Amethyst](https://github.com/ianyh/Amethyst)
+- [https://github.com/kasper/phoenix](https://github.com/kasper/phoenix)
+
 
 
