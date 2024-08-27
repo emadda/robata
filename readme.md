@@ -19,7 +19,6 @@ Learn more: [robata.app](https://robata.app).
 - Open/close Robata UI to show windows
 	- Touch the bottom left of any trackpads attached.
 	- cmd-§
-		- Open/closes Robata.
 		- (or cmd-` for US keyboards)
 		- The § or ` key is above the tab key.
 		- You can customize this in the settings.
