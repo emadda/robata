@@ -15,6 +15,18 @@ Learn more: [robata.app](https://robata.app).
 
 # Keyboard shortcuts
 
+
+- Open/close Robata UI to show windows
+	- Touch the bottom left of any trackpads attached.
+	- cmd-§
+		- Open/closes Robata.
+		- (or cmd-` for US keyboards)
+		- The § or ` key is above the tab key.
+		- You can customize this in the settings.
+		- Works similarly to cmd-tab.
+
+
+
 - z
 	- Zoom.
 	- If you hover over a window the zoom is centered there, otherwise the closest image center is used.
@@ -29,13 +41,6 @@ Learn more: [robata.app](https://robata.app).
 	- To find all your windows, this creates a small window on each space, visits each space, and then closes.
 	- It should take around 10 seconds.
 	- Or you can manually switch to different spaces instead.
-
-- cmd-§
-	- (or cmd-` for US keyboards)
-	- The § or ` key is above the tab key.
-	- You can customize this in the settings.
-	- Works similarly to cmd-tab.
-
 
 
 # Custom methods of opening
